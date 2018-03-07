@@ -1,4 +1,4 @@
-# xmr-node-proxy
+# xmr-node-proxy Alloy Compatible
 
 
 ## Setup Instructions
